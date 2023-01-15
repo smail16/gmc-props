@@ -1,0 +1,12 @@
+.navbar {
+    background-color: beige;
+    display: flex;
+    width: 100%;
+}
+.ordliste{
+    display: flex;
+    
+}
+li{
+    width: 220px;
+}
